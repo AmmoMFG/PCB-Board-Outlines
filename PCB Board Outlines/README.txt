@@ -31,6 +31,13 @@ the unit measurement. KICAD defaults to millimeters, thus all of these files
 have been created assuming a MM is the unit they will be imported as. If
 given the option to import with a defined unit, select MM.
 
+REQUESTS
+--------
+
+If you would like a board with a specific geometry, feel free to e-mail or put
+in a feature request.
+
+
 MAINTAINERS
 -----------
 
